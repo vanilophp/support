@@ -6,3 +6,5 @@
 [![MIT Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
 
 Common Vanilo functions, traits, helpers.
+
+This is a crucial line in README.
